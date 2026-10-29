@@ -82,7 +82,7 @@ When I'm not coding, you'll probably find me:
 - 📚 Learning something new
 - 🎯 Setting goals and working toward them
 
-### Favorite Programming Joke
+### Favorite Quote
 
 ```java
 while (!successful) {
