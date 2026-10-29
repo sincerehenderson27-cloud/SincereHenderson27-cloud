@@ -85,12 +85,12 @@ When I'm not coding, you'll probably find me:
 ### Favorite Programming Joke
 
 ```java
-while (!success) {
+while (!successful) {
     tryAgain();
 }
 ```
 
-*"That's basically my coding journey right now!"* 😆
+*"That's my entire coding journey right now!"* 😆
 
 ---
 
