@@ -1,4 +1,4 @@
-# Hi, I'm Sincere Henderson 👋
+# Hi, I'm Sincere👋
 
 ### Aspiring Java Developer | Lifelong Learner | Problem Solver
 
